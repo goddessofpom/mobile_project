@@ -1,0 +1,19 @@
+.submit{
+  width: 100%;
+  background-color: white;
+  outline: 0 none;
+  padding: 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 0.51rem;
+  height:1rem;
+}
+
+.erroritem{
+    background-color: #eee;
+}
+
+.errormessage{
+    font-size: 0.3rem;
+    color: red;
+}
